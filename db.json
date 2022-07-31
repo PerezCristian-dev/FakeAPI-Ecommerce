@@ -13,7 +13,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod1.png",
       "categoria": "StarWars",
-      "id": "s1"
+      "id": "00000001"
     },
     {
       "nombre": "Star Wars Dark Vader",
@@ -21,7 +21,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod2.png",
       "categoria": "StarWars",
-      "id": "s2"
+      "id": "00000002"
     },
     {
       "nombre": "Grogu Figure",
@@ -29,7 +29,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod3.png",
       "categoria": "StarWars",
-      "id": "s3"
+      "id": "00000003"
     },
     {
       "nombre": "Star Wars Clone",
@@ -37,7 +37,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod4.png",
       "categoria": "StarWars",
-      "id": "s4"
+      "id": "00000004"
     },
     {
       "nombre": "Star Wars Grogu",
@@ -45,7 +45,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod5.png",
       "categoria": "StarWars",
-      "id": "s5"
+      "id": "00000005"
     },
     {
       "nombre": "Star Wars Emperor",
@@ -53,7 +53,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod6.png",
       "categoria": "StarWars",
-      "id": "s6"
+      "id": "00000006"
     },
     {
       "nombre": "XBOX Controller",
@@ -61,7 +61,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod7.png",
       "categoria": "Consolas",
-      "id": "c1"
+      "id": "00000007"
     },
     {
       "nombre": "Playstation 5 Cover",
@@ -69,7 +69,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod8.png",
       "categoria": "Consolas",
-      "id": "c2"
+      "id": "00000008"
     },
     {
       "nombre": "Nintendo",
@@ -77,7 +77,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod9.png",
       "categoria": "Consolas",
-      "id": "c3"
+      "id": "00000009"
     },
     {
       "nombre": "Nintendo Joycon",
@@ -85,7 +85,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod10.png",
       "categoria": "Consolas",
-      "id": "c4"
+      "id": "00000010"
     },
     {
       "nombre": "Gamboy Color",
@@ -93,7 +93,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod11.png",
       "categoria": "Consolas",
-      "id": "c5"
+      "id": "00000011"
     },
     {
       "nombre": "Camisa Atari",
@@ -101,7 +101,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod12.png",
       "categoria": "Diversos",
-      "id": "c6"
+      "id": "00000012"
     },
     {
       "nombre": "Camisa SNES",
@@ -109,7 +109,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod13.png",
       "categoria": "Diversos",
-      "id": "d1"
+      "id": "00000013"
     },
     {
       "nombre": "Sonic Doll",
@@ -117,7 +117,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod14.png",
       "categoria": "Diversos",
-      "id": "d2"
+      "id": "00000014"
     },
     {
       "nombre": "Playstation VR",
@@ -125,7 +125,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod15.png",
       "categoria": "Consolas",
-      "id": "d3"
+      "id": "00000015"
     },
     {
       "nombre": "Picachu",
@@ -133,7 +133,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod16.png",
       "categoria": "Diversos",
-      "id": "d4"
+      "id": "00000016"
     },
     {
       "nombre": "XBOX Series X",
@@ -141,7 +141,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod17.png",
       "categoria": "Consolas",
-      "id": "d5"
+      "id": "00000017"
     },
     {
       "nombre": "Clock Alarm",
@@ -149,7 +149,7 @@
       "descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat.Molestias enim eum, corporis velit placeat ea distinctio sed quae modi, veritatis facere et voluptatum laboriosam laborum accusantium. Ab delectus aperiam porro mollitia recusandae id fugiat magni quas voluptatibus facere.",
       "imagen": "assets/img/prod18.png",
       "categoria": "Diversos",
-      "id": "d6"
+      "id": "00000018"
     }
   ]
 }
